@@ -33,14 +33,3 @@ Each question has three options (a, b, c), and users must enter their chosen opt
 
 - Python 3
 
-##  Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
-2. Run Code
-
-    python quiz.py
-
